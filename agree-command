@@ -1,0 +1,22 @@
+{
+  "name": "agree",
+  "permissions": "NONE",
+  "restriction": "1",
+  "_id": "qhClV",
+  "actions": [
+    {
+      "info": "1",
+      "find": "Member",
+      "storage": "1",
+      "varName": "found.role.member",
+      "name": "Find Role"
+    },
+    {
+      "member": "1",
+      "varName2": "",
+      "role": "3",
+      "varName": "found.role.member",
+      "name": "Add Member Role"
+    }
+  ]
+}
