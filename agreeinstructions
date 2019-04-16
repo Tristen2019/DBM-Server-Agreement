@@ -1,0 +1,43 @@
+{
+  "name": "agreeinstructions",
+  "permissions": "ADMINISTRATOR",
+  "restriction": "1",
+  "_id": "hdzXy",
+  "actions": [
+    {
+      "title": "Instructions",
+      "author": "",
+      "color": "RED",
+      "timestamp": "false",
+      "url": "",
+      "authorIcon": "",
+      "imageUrl": "",
+      "thumbUrl": "",
+      "storage": "1",
+      "varName": "embed.setup.instructions.message",
+      "name": "Create Embed Message"
+    },
+    {
+      "storage": "1",
+      "varName": "embed.setup.instructions.message",
+      "message": "1. Run the =setupagree command\n2. Add the created \"Member\" role created to all the channels that you WANT the user to have AFTER they do the =agree command!\n3. Set the @everyone role \"Read Messages\" permission to False.\n4. Set the @everyone role \"Send Messages\" permission to False.\nHaving troubles? Please join our support server!\nhttps://discord.gg/5Wa9j8Z\n",
+      "name": "Set Embed Description"
+    },
+    {
+      "storage": "1",
+      "varName": "embed.setup.instructions.message",
+      "channel": "0",
+      "varName2": "",
+      "storage3": "0",
+      "varName3": "",
+      "name": "Send Embed Message"
+    },
+    {
+      "storage": "1",
+      "varName": "embed.setup.instructions.message",
+      "message": "Exiled DBM Template by Tristen#3979",
+      "footerIcon": "",
+      "name": "Set Embed Footer"
+    }
+  ]
+}
